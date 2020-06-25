@@ -1,0 +1,88 @@
+I:\screenshots\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+I:\screenshots\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe
+I:\screenshots\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.pdb
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Firma.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+I:\screenshots\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.pdb
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Firma.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+H:\ \Yeni klasör (2)\Cruze\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
+I:\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Firma.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+I:\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
+I:\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe
+I:\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.pdb
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\srckurs.mdf
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\srckurs_log.ldf
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.pdb
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+C:\Users\Ömürcan\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+C:\Users\Ömürcan\Desktop\ÖMÜRCAN1319\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+C:\Users\Ömürcan\Desktop\ÖMÜRCAN1319\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+C:\Users\Ömürcan\Desktop\ÖMÜRCAN1319\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+C:\Users\Ömür\Desktop\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\bin\Debug\sürücü_kursu.exe.config
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.exe
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.pdb
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csprojResolveAssemblyReference.cache
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.AdayArama.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Anamenü.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Evrakdüzenleme.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Giris.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.Properties.Resources.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.TaksitDurum.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.yenikayit.resources
+C:\Users\Ömür\Desktop\ömür\srckrsYENİ\sürücü_kursu\sürücü_kursu\obj\Debug\sürücü_kursu.csproj.GenerateResource.Cache
